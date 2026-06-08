@@ -2,7 +2,7 @@
 
 Live Deployment: **[https://kanban-board-7taf.vercel.app/](https://kanban-board-7taf.vercel.app/)**
 
-A premium, full-stack Kanban Board web application built with a responsive React frontend and a secure Node.js/Express backend, integrated with MongoDB for database persistence. The application features user authentication using `httpOnly` secure cookies, drag-and-drop workflow status management, and clean minimalist styling.
+A full-stack Kanban Board web application built with a responsive React frontend and a secure Node.js/Express backend, integrated with MongoDB for database persistence. The application features user authentication using `httpOnly` secure cookies, drag-and-drop workflow status management, and clean minimalist styling.
 
 ---
 
@@ -10,7 +10,7 @@ A premium, full-stack Kanban Board web application built with a responsive React
 - **User Authentication**: Secure signup, login, and session preservation using HTTP-Only cookies (JWT).
 - **Kanban Board Workflows**: Create, update, categorize, and delete tasks dynamically.
 - **Responsive Layout**: Designed for seamless desktop and mobile use with custom dark-themed aesthetics.
-- **Unified Vercel Architecture**: Configured as a monorepo deployed on a single domain to avoid CORS issues and cookies blockages.
+- **Deployment**: Deployed to Vercel.
 
 ---
 
